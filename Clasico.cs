@@ -9,5 +9,9 @@ namespace SpeerdrunFinalProg2
     [Serializable]
     internal class Clasico
     {
+        public Clasico()
+        {
+            
+        }
     }
 }
