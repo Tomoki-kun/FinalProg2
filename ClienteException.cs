@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SpeerdrunFinalProg2
+namespace FinalProg2
 {
     internal class ClienteException : ApplicationException
     {

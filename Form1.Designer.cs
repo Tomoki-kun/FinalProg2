@@ -1,4 +1,4 @@
-﻿namespace SpeerdrunFinalProg2
+﻿namespace FinalProg2
 {
     partial class Form1
     {

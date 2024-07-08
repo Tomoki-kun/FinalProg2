@@ -1,0 +1,10 @@
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.csproj.AssemblyReference.cache
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.Form1.resources
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.Properties.Resources.resources
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.csproj.GenerateResource.cache
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.csproj.CoreCompileInputs.cache
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\bin\Debug\FinalProg2.exe.config
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\bin\Debug\FinalProg2.exe
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\bin\Debug\FinalProg2.pdb
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.exe
+D:\ProjectosVS\Repos\SpeerdrunFinalProg2\obj\Debug\FinalProg2.pdb

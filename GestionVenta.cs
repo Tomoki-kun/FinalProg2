@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SpeerdrunFinalProg2
+namespace FinalProg2
 {
     [Serializable]
     internal class GestionVenta

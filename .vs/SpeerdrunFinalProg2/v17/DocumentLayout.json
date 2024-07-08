@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "Clasico.cs",
               "ToolTip": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Clasico.cs",
               "RelativeToolTip": "Clasico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T22:02:47.627Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "ToolTip": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:24:47.517Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-05T21:24:47.517Z"
             },
             {
               "$type": "Document",

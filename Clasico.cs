@@ -4,14 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SpeerdrunFinalProg2
+namespace FinalProg2
 {
     [Serializable]
-    internal class Clasico
+    internal class Clasico : Producto
     {
-        public Clasico()
+        public Clasico(double precioA, string detalle)
         {
-            
+
+        }
+        public override string Descripcion()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override double Precio(double kilo)
+        {
+            throw new NotImplementedException();
         }
     }
 }

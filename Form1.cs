@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SpeerdrunFinalProg2
+namespace FinalProg2
 {
     public partial class Form1 : Form
     {
@@ -88,7 +88,7 @@ namespace SpeerdrunFinalProg2
                             if (line[3] == "P")
                                 gestionSistema.lista.Add(new Premium(line[0], Convert.ToDouble(line[1]), Convert.ToDouble(line[2])));
                             if (line[3] == "C")
-                                gestionSistema.lista.Add(new Clasico(line[1], line[0]));
+                                gestionSistema.lista.Add(new Clasico(Convert.ToDouble(line[1]), line[0]));
                         }
                     }
                     foreach (Producto prod in gestionSistema.lista)
