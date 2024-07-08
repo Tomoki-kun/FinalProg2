@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:clasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\gestionventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\gestionventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:gestionventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\clientecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\clientecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:clientecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|d:\\projectosvs\\repos\\speerdrunfinalprog2\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682A129A-1765-44F9-AA4F-8BD5FAB10FA7}|SpeerdrunFinalProg2.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "GestionVenta.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:26:48.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:26:48.318Z"
             },
             {
               "$type": "Document",
@@ -75,25 +74,24 @@
               "RelativeToolTip": "Premium.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T22:02:40.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T22:02:40.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Clasico.cs",
               "DocumentMoniker": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Clasico.cs",
               "RelativeDocumentMoniker": "Clasico.cs",
               "ToolTip": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Clasico.cs",
               "RelativeToolTip": "Clasico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T22:02:47.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -105,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\ProjectosVS\\Repos\\SpeerdrunFinalProg2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAD4v2cAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:26:32.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:26:32.484Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "ClienteCuenta.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAswAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T22:02:58.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T22:02:58.503Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Pedido.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T22:02:52.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T22:02:52.189Z"
             }
           ]
         }
